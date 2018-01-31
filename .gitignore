@@ -1,0 +1,8 @@
+.vs/WcfServiceProgress/v14/.suo
+ClientApp/bin/
+ClientApp/obj/
+WcfServiceProgress/bin/
+WcfServiceProgress/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+WcfServiceProgress/obj/
+WcfServiceProgressBase/bin/
+WcfServiceProgressBase/obj/
